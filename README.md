@@ -1,5 +1,5 @@
 # QuitAllApps
-Applescript for quit all apps
+Applescript for quit all apps, remove notifications
 #
 --by Ael
 display dialog "Quit all applications" buttons {"Cancel", "OK"} default button {"OK"}
